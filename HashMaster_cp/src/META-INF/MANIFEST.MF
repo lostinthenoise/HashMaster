@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: hashmaster.Main
+Class-Path: /Users/lu_c1ph3r/IdeaProjects/HashMaster/src/hashmaster/
+
